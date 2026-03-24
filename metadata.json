@@ -1,0 +1,5 @@
+{
+  "name": "TallySync Pro",
+  "description": "An offline-first invoice scanner and inventory manager with OCR capabilities.",
+  "requestFramePermissions": ["camera"]
+}
